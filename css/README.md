@@ -1,1 +1,1 @@
-Single Page Productsite template 
+Single Page Productsite template.
