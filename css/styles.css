@@ -1,0 +1,175 @@
+body{
+        font-family: "Montserrat";
+        text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+        font-family: "Montserrat-Bold";
+   }
+
+p{
+        color: #8f8f8f;
+}
+/* Headings */
+.big-heading{
+        font-family: "Montserrat-Black",sans-serif;
+        font-size: 3rem;
+        line-height: 1.5;
+        font-weight: 900;
+
+}
+
+.section-heading{
+        font-size: 3rem;
+        line-height: 1.5;
+
+}
+
+/* classes */
+.iphone_moc{
+        width:auto;
+        height:523px ;
+}
+
+#title{
+        /* background-color: #ff5500; */
+        /* background-color: #ff7a00; */
+        text-align: left;
+        /* background-color: #FFA500; */
+        
+}
+
+.container-fluid{
+        padding: 7% 15%;
+}
+
+.colored-section{
+        background-color: #f66a02;
+        color:#fff
+}
+
+.white-section{
+        background-color: #fff;
+
+}
+
+#title .container-fluid{
+        padding: 3% 15% 7%;
+}
+
+/* NAvigation BAr */
+.navbar{
+        padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+        font-family: "Ubuntu";
+        font-size:2.5rem;
+        font-weight: bold;
+}
+
+.nav-item{
+        padding: 0 18px;
+}
+.nav-link{
+        font-family: "Montserrat-light";
+        font-size:1.2rem;
+        font-weight: ;
+}
+
+/* Download Button */
+.download-btn{
+        margin: 5% 3% 5% 0;
+}
+
+.iphone_moc{
+        /* position: relative;
+        left: 10%; */
+}
+
+/* Feature Section */
+#features{
+        /* position:relative;
+        z-index: 1; */
+}
+.feature-box{
+        padding: 5%;
+        
+}
+.icon-1 {
+        color: #ed8801;
+        margin-bottom: 1rem;
+    }
+    
+    .icon-1:hover{
+            color:#F95704;
+    }
+
+.feature-text{
+        font-size: 1.5rem;
+}
+    
+    /* Testemonial Section */
+
+    #testimonials{
+        background-color: #ed8801;
+    }
+
+    .testimonial-image{
+        width: 12%;
+        border-radius: 100%;
+        margin: 20px;
+    }
+
+    .testimonial-text{
+        font-size: 2.5rem;
+        line-height: 1.5;
+    }
+
+    #press{
+        background-color: #ed8801;
+        padding-bottom: 4%;
+    }
+
+    .press-img{
+        width:15%;
+        margin:20px 20px 50px;
+
+    }
+  .carousel-item{
+        padding: 7% 15%;
+  }
+
+  #pricing{
+        padding: 100px;
+  }
+
+  .price-text{
+        font-size: 3rem;
+        line-height: 1.5;
+  }
+
+  .pricing-col{
+        padding: 3% 2%;
+  }
+
+  @media (max-width:1028px) {
+        #title{
+                text-align: center;
+        }
+        
+  }
+
+  #cta{
+        background-color: #ff7a00;
+  }
+
+  .cta_button{
+        margin: 0% 2% 10%;
+  }
+
+  /* Footer Section */
+
+  .social-icon{
+        margin:20px 10px;
+  }
